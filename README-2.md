@@ -116,7 +116,6 @@ The current version supports cash on delivery only, uses emoji product icons, an
 
 ## Project documentation
 
-See [HANDOVER.md](HANDOVER.md) for the full data model, API endpoint list, business rules, troubleshooting tips, and demo checklist.
 
 ## Author
 

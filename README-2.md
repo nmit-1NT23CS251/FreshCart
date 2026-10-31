@@ -114,8 +114,6 @@ The backend also needs its CORS origins updated when the frontend is deployed.
 
 The current version supports cash on delivery only, uses emoji product icons, and runs locally. Future improvements could include online payments, PostgreSQL deployment, database migrations with Alembic, order notifications, automated tests, and product photos.
 
-## Project documentation
-
 
 ## Author
 
